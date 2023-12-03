@@ -51,3 +51,5 @@ Mapty is a project used for practicing the usage of APIs such as Geolocation and
 Click anywhere on the map where you would like to log one out of two possible activities (running or cycling), along with some extra information, then press Enter. After logging few of those, click on the logged data (presented in the black box) and see how the map moves (interacts) according to your need.
 
 #### Final version: [Mapty](https://mapty.netlify.app/)
+
+***
