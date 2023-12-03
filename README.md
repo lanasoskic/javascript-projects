@@ -44,7 +44,7 @@ This project is a site that showcases some advanced DOM manipulations.
 
 **Project 4: Mapty**
 
-Mapty is a project used for practicing the usage of APIs such as Geolocation and localStorage, as well as the open-source JavaScript library for interactive maps created by [Leaflet](https://leafletjs.com/).
+Mapty is a project used for practicing OOP and the usage of APIs such as Geolocation and localStorage, as well as the open-source JavaScript library for interactive maps created by [Leaflet](https://leafletjs.com/).
 
 #### Usage:
 
